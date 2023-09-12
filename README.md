@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-bmGs4Mbz9RMDVHW4U5Ft_J6tapUShQQb4Q&usqp=CAU">
 
 ### Hi 👋
 I am a Computer Science student looking for opportunities.
