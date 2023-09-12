@@ -1,4 +1,3 @@
-<img src="https://www.deviantart.com/treshkudrago/art/Matrix-Binary-Code-wallpaper-By-Treshku-339808176">
 
 ### Hi 👋! My name is André.
 I am a Computer Science student looking for opportunities.
