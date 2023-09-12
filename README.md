@@ -1,6 +1,6 @@
 <img src="https://www.deviantart.com/treshkudrago/art/Matrix-Binary-Code-wallpaper-By-Treshku-339808176">
 
-### Hi 👋
+### Hi 👋! My name is André.
 I am a Computer Science student looking for opportunities.
 - 🔭 I’m currently working on a computer network related internship and learning a lot about it daily.
 - 🌱 I’m currently learning Flutter to be able to build apps.
