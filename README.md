@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpngtree.com%2Ffree-backgrounds-photos%2Fbinary&psig=AOvVaw3HiMzmkSqqk81q2oQsiXfl&ust=1694611468279000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLjfqeiVpYEDFQAAAAAdAAAAABBQ">
+<img src="https://pngtree.com/freebackground/binary-matrix-code-flow-dark-abstract-background_1466835.html">
 
 ### Hi 👋
 I am a Computer Science student looking for opportunities.
