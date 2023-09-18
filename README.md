@@ -1,7 +1,7 @@
 
 ### Hi 👋! My name is André.
 I am a Computer Science student looking for opportunities.
-- 🔭 I’m currently working on a computer network related internship and learning a lot about it daily.
+- 🔭 I’m currently working on a computer network related internship and learning a lot about computer networks and how the internet works daily.
 - 🌱 I’m currently learning Flutter to be able to build apps.
 - 🤝 I’m looking for new opportunities, to learn and to gain more experience. 
 
