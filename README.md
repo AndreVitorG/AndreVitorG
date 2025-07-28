@@ -1,6 +1,7 @@
 
 ### Hi 👋! My name is André.
 I am a Computer Science student looking for new opportunities, to learn and to gain more experience. 🤝
+
 Currently enrolled in a FullStack Development internship at Aegro. 🌱
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=AndreVitorG)
